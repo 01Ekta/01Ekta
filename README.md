@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=01ekta&show_icons=true&locale=en" alt="01ekta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=01ekta&" alt="01ekta" /></p>
+
+![snake gif](https://github.com/01Ekta/01Ekta/blob/output/github-contribution-grid-snake.svg)
