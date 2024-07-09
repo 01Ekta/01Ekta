@@ -32,4 +32,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=01ekta&" alt="01ekta" /></p>
 
-![snake svg](https://github.com/01Ekta/01Ekta/blob/output/github-contribution-grid-snake.svg)
