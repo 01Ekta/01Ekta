@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ekta Gupta</h1>
-<h3 align="center">A passionate frontend developer and AI/ML enthusiast.</h3>
+<h3 align="center">A passionate Full Stack Developer and AI/ML enthusiast.</h3>
 
 - 🔭 I’m currently working on [Blog Master Website](https://github.com/01Ekta/Blog_website)
 
 - 🌱 I’m currently learning **MongoDB, ExpressJS, ReactJS, NodeJS**
 
-- 💬 Ask me about **Python, HTML/CSS, Machine Learning, Deep Learning**
+- 💬 Ask me about **Python, HTML/CSS, Machine Learning, Deep Learning, Natural Language Processing and Cloud Computing**
 
 - 📫 How to reach me **candyekta01@gmail.com**
 
