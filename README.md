@@ -15,12 +15,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ekta gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekta gupta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ekta gupta](https://www.linkedin.com/in/ekta-gupta-992b61230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekta gupta" height="30" width="40" /></a>
 <a href="https://instagram.com/hi_ektagupta_here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hi_ektagupta_here" height="30" width="40" /></a>
-<a href="https://www.behance.net/ekta gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ekta gupta" height="30" width="40" /></a>
+<a href="https://www.behance.net/ektagupta07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ekta gupta" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ekta gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ekta gupta" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ekta gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ekta gupta" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/candyekta01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="candyekta01" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/09EKTA_GUPTA/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ekta gupta" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/candyekta01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="candyekta01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
