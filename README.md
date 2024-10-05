@@ -9,7 +9,9 @@
 
 - 📫 How to reach me **candyekta01@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/128xx1P8FvHz03GpYodVLrDMRoT6uLcUi/view?usp=sharing](https://drive.google.com/file/d/128xx1P8FvHz03GpYodVLrDMRoT6uLcUi/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17lemn3T7t9ds6BAXp93SJUTgoLr-FEf1/view?usp=drive_link](https://drive.google.com/file/d/17lemn3T7t9ds6BAXp93SJUTgoLr-FEf1/view?usp=drive_link)
+
+
 
 - ⚡ Fun fact **Apart from my Technical Skills i am interested into Science, Astronomy and History**
 
@@ -17,6 +19,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ekta-gupta-992b61230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekta gupta" height="30" width="40" /></a>
 <a href="https://instagram.com/hi_ektagupta_here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hi_ektagupta_here" height="30" width="40" /></a>
+<a href="https://medium.com/@candyekta01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@candyekta01" height="30" width="40" /></a>
+<a href="https://twitter.com/candyekta01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="candyekta01" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ekta gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ekta gupta" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/09EKTA_GUPTA/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ekta gupta" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/candyekta01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="candyekta01" height="30" width="40" /></a>
