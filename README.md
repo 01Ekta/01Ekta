@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ekta Gupta</h1>
 <h3 align="center">A passionate Full Stack Developer and AI/ML enthusiast.</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=01ekta" alt="01ekta" /></a> </p>
+
 - 🔭 I’m currently working on [Blog Master Website](https://github.com/01Ekta/Blog_website)
 
 - 🌱 I’m currently learning **MongoDB, ExpressJS, ReactJS, NodeJS**
@@ -33,7 +35,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=01ekta&show_icons=true&locale=en" alt="01ekta" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=01ekta&" alt="01Ekta" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=01ekta&" alt="01ekta" /></p>
 
 ###
 Snake Graph to Display my Github Contribution
