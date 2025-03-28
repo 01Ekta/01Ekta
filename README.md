@@ -33,7 +33,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=01ekta&show_icons=true&locale=en" alt="01ekta" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=01Ekta" alt="GitHub Streak" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=01ekta&theme=default" alt="01ekta" /></p>
 
 ###
 Snake Graph to Display my Github Contribution
