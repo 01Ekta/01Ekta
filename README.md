@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **candyekta01@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17lemn3T7t9ds6BAXp93SJUTgoLr-FEf1/view?usp=drive_link](https://drive.google.com/file/d/17lemn3T7t9ds6BAXp93SJUTgoLr-FEf1/view?usp=drive_link)
+- 📄 Know about my experiences [Portfolio](https://my-portfolio-zeta-dun-26.vercel.app/)  
 
 
 
