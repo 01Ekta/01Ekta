@@ -33,6 +33,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=01ekta&show_icons=true&locale=en" alt="01ekta" /></p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=01Ekta&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ###
 Snake Graph to Display my Github Contribution
