@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ekta Gupta</h1>
-<h3 align="center">A passionate Full Stack Developer and AI/ML enthusiast.</h3>
+<h3 align="center">A passionate Backend Developer Developer and AI/ML enthusiast.</h3>
 
-- 🔭 I’m currently working on [Blog Master Website](https://github.com/01Ekta/Blog_website)
+- 🔭 I’m currently working on [KrishiSaathi](https://github.com/01Ekta/Blog_website)
 
-- 🌱 I’m currently learning **MongoDB, ExpressJS, ReactJS, NodeJS**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 💬 Ask me about **Python, HTML/CSS, Machine Learning, Deep Learning, Natural Language Processing and Cloud Computing**
 
