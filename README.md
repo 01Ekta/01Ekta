@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Agentic AI**
 
-- 💬 Ask me about **Python, SQL, Javascript, AI/ML/NLP, Deep Learning, and Cloud Computing**
+- 💬 Ask me about **Python, SQL, Javascript, AI/ML/NLP and Deep Learning**
 
 - 📫 How to reach me **candyekta01@gmail.com**
 
